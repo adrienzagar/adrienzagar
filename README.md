@@ -1,4 +1,4 @@
-### Hell-O, I'm Adrien!
+### Hello, I'm Adrien!
 #### A passionnate front-end React developer from France
 
 🔭 I’m currently working with [FoodTime](https://foodtime.fr/), an app to manage cook stuff and sanitary protocol in professional kitchen
