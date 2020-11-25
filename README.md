@@ -6,7 +6,7 @@
 📌 Last project: [Messieurs Croquent](https://github.com/adrienzagar/resaurant-messieurs-croquent) as a React Developer, teaming up with Symfony Devs for back-end.\
 **Stack**: React, Redux, Symfony RESTful API, deployment on AWS EC2.\
 
-🌱 I’m currently working with React/Redux to improve my skills on these technos. I would like to introduce to TypeScript soon.
+🌱 I’m currently working with React/Redux to improve my skills on these technos. I would like to pick up TypeScript soon.
 
 [//]: # (👯 I’m looking to collaborate with an innovative company)
 
