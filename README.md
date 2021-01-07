@@ -25,6 +25,7 @@ Skills:
 <img src='https://icon-icons.com/icons2/2415/PNG/48/bootstrap_plain_logo_icon_146619.png' alt='bootstrap' height='40'> 
 <img src='https://icon-icons.com/icons2/2108/PNG/48/php_icon_130857.png' alt='php' height='40'>
 <img src='https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png' alt='React' height='44'>
+<img src='https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png' alt='React' height='44'>
 
 
 
