@@ -27,7 +27,4 @@ Skills:
 <img src='https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png' alt='React' height='44'>
 
 
-Social:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='32'>](https://github.com/https://github.com/adrienzagar)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='32'>](https://www.linkedin.com/in/https://www.linkedin.com/in/adrienzagar)
 
