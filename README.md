@@ -1,14 +1,14 @@
 ### Hello, I'm Adrien!
-#### A passionnate developer from France
+#### A passionnate developer
 
-🔭 I have work 3 months with [FoodTime](https://foodtime.fr/) on an app that manage cook stuff and sanitary protocol in professional kitchen.
+💻 Working at Prev&Care
 
-📌 Last project: [Messieurs Croquent](https://github.com/adrienzagar/resaurant-messieurs-croquent) as a React Developer, teaming up with Symfony Devs for back-end.\
+🔭 I have work 3 months as front-end developer with [FoodTime](https://foodtime.fr/) on an app that manage cook stuff and sanitary protocol in professional kitchen.
+
+📌 Team project/case study: [Messieurs Croquent](https://github.com/adrienzagar/resaurant-messieurs-croquent) as a React Developer, teaming up with Symfony Devs for back-end.\
 **Stack**: React, Redux, Symfony RESTful API, deployment on AWS EC2.\
 
 🌱 I’m currently working with React/Redux to improve my skills on these technos. I would like to pick up TypeScript soon.
-
-💻 I'd like also to go on Symfony or Wordpress one day
 
 [//]: # (👯 I’m looking to collaborate with an innovative company)
 
